@@ -1,0 +1,11 @@
+{
+	"list": [{
+		"musicName": "陈奕迅 - 孤勇者",
+		"albumName": "孤勇者",
+		"duration": 256,
+		"path": "/孤勇者/陈奕迅",
+		"mp3": "music.mp3",
+		"lyric": "lyric.txt",
+		"img": "img.jpg"
+	}]
+}

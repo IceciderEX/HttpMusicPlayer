@@ -1,0 +1,22 @@
+{
+  "list": [
+    {
+      "musicName": "半吨兄弟 - 风雨无阻",
+      "albumName": "风雨无阻",
+      "duration": 253,
+      "path": "/风雨无阻/半吨兄弟",
+      "mp3": "music.mp3",
+      "lyric": "lyric.txt",
+      "img": "img.jpg"
+    },
+    {
+      "musicName": "周华健 - 风雨无阻",
+      "albumName": "风雨无阻",
+      "duration": 273,
+      "path": "/风雨无阻/周华健",
+      "mp3": "music.mp3",
+      "lyric": "lyric.txt",
+      "img": "img.jpg"
+    }
+  ]
+}

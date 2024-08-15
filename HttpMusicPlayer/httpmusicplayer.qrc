@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/HttpMusicPlayer">
+        <file>res/continue.png</file>
+        <file>res/lastone.png</file>
+        <file>res/nextone.png</file>
+        <file>res/pause.png</file>
+        <file>res/voiceshut.png</file>
+        <file>res/search.png</file>
+        <file>res/volume.png</file>
+        <file>res/seqplay.png</file>
+        <file>res/loopmode.png</file>
+        <file>res/randomplay.png</file>
+        <file>res/circle.png</file>
+        <file>res/search_hover.png</file>
+        <file>res/default_img.jpg</file>
+        <file>res/musicicon.png</file>
+        <file>res/background.jpg</file>
+        <file>res/addsong.png</file>
+        <file>res/addfile.png</file>
+        <file>res/mute.png</file>
+    </qresource>
+</RCC>
